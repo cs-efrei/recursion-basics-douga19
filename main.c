@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main () {
-    printf("Hello, recursion !\n");
+    printf("Hello, this is douga !\n");
     return 0;
 }
